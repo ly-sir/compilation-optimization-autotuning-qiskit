@@ -1,8 +1,8 @@
 # Compilation Optimization Autotuning for Qiskit
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-brightgreen.svg)](https://www.python.org/)
-[![Qiskit](https://img.shields.io/badge/Qiskit-1.3%2B-623CE5?logo=Qiskit&logoColor=white)](https://qiskit.org/)
+[![Python Version](https://img.shields.io/badge/python-3.10-brightgreen.svg)](https://www.python.org/)
+[![Qiskit](https://img.shields.io/badge/Qiskit-1.3.2-623CE5?logo=Qiskit&logoColor=white)](https://qiskit.org/)
 
 An automatic tuning tool for Qiskit that enhances quantum circuit optimization by adaptively selecting compiler passes to achieve superior gate count reduction.
 
@@ -13,7 +13,6 @@ An automatic tuning tool for Qiskit that enhances quantum circuit optimization b
 - [How It Works](#how-it-works)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
